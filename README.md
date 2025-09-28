@@ -62,5 +62,15 @@ where \( \mathbf{u} = (u,v) \) is velocity and \( p \) is pressure.
 
 ---
 
+## ⚙️ Installation
 
+### Prerequisites
+- Python 3.8+  
+- Recommended: `conda` or `venv`  
+
+### Setup
+Clone the repo:
+```bash
+git clone https://github.com/your-username/Hands-on-PINNs.git
+cd Hands-on-PINNs
 
