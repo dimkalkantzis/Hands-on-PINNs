@@ -25,14 +25,6 @@ The project provides both implementations and benchmarks to help researchers and
 
 ---
 
-## 🧰 Methods Implemented
-
-1. **Finite Difference Method (FDM)** – baseline discretization  
-2. **Physics-Informed Neural Networks (PINNs)** – enforce PDEs in training loss  
-3. **Improved PINNs (IPINNs)** – modified loss/training strategies for better stability  
-
----
-
 ## ⚙️ Installation
 
 ### Prerequisites
