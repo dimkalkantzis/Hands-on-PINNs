@@ -12,7 +12,7 @@ We compare classical solvers with deep learning–based PINNs and their improved
 - **Navier–Stokes equations** solved with:
   - Improved PINNs (**IPINNs**)  
 
-The project provides both implementations and benchmarks to help researchers and students understand the strengths and limitations of each method.
+This project provides implementations, comparisons, and results to help researchers and students understand the strengths and limitations of each method.
 
 ---
 
@@ -21,12 +21,12 @@ The project provides both implementations and benchmarks to help researchers and
 ### 1. 1D Burgers’ Equation
 The viscous Burgers’ equation:
 
-$$
+```math
 \frac{\partial u}{\partial t} 
 + u \frac{\partial u}{\partial x} 
 = \nu \frac{\partial^2 u}{\partial x^2}, 
 \quad x \in [0,1], \; t > 0
-$$
+
 
 Initial and boundary conditions:
 
