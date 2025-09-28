@@ -14,13 +14,6 @@ We compare classical solvers with deep learning–based PINNs and their improved
 
 The project provides both implementations and benchmarks to help researchers and students understand the strengths and limitations of each method.
 
----
-
-## 📘 Mathematical Formulation
-
-### 1. 1D Burgers’ Equation--
-
-### 2. Navier–Stokes Equations
 
 ---
 
