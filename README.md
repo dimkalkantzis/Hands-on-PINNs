@@ -25,8 +25,6 @@ The project provides both implementations and benchmarks to help researchers and
 
 ---
 
-## 📂 Repository Structure
-
 ## 🧰 Methods Implemented
 
 1. **Finite Difference Method (FDM)** – baseline discretization  
